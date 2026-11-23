@@ -33,14 +33,7 @@ Send the folder to the server with scp:
 
 Open it here:
 
-    http://student.heraldcollege.edu.np/~yourusername/week1-tutorial/
+   https://fullstack-student.heraldcollege.edu.np/~np03cs4a240076/tutorial/
 
 Then open it on your phone.
 
-
-HOMEWORK
-
-Flexbox Froggy, levels 15 to 24.       flexboxfroggy.com
-CSS Grid Garden, levels 11 to 28.      cssgridgarden.com
-
-Screenshot the last level of each. Bring it to the workshop.
